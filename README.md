@@ -10,6 +10,8 @@ Un outil pédagogique en français consacré au violon, à l’alto, au violonce
 
 ## Utilisation
 
+Site public : https://guillaumebahy-glitch.github.io/guim80/
+
 Ouvrir `index.html` dans un navigateur. Le fichier comprend les images, les définitions et le PDF ; les liens vers les sources demandent une connexion Internet.
 
 Sur ordinateur, survoler un terme pour afficher sa définition ; cliquer pour la maintenir ouverte. Sur téléphone, toucher le terme. Fermer avec × ou Échap. Les liens `#terme=frequence` ouvrent directement une définition.
